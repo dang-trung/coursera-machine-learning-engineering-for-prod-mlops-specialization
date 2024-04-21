@@ -18,7 +18,8 @@ Fill in the blanks with the correct answer according to the descriptions in the 
 1. Data Science. 2. Data mining.
 
 Correct
-That’s right! The “before” and “now” of performance and resource requirements are represented respectively by the Data Mining and Data Science concepts.
+That’s right! The “before” and “now” of performance and resource requirements 
+are represented respectively by the Data Mining and Data Science concepts.
 
 2.
 Question 2
