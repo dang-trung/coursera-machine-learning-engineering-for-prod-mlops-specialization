@@ -26,10 +26,12 @@ Which of the following statements about labeling techniques is true?
 
 1 / 1 point
 
-> Label propagation is a technique used in semi-supervised algorithms based on the similarity of different data points.
+> Label propagation is a technique used in semi-supervised algorithms 
+based on the similarity of different data points.
 
 
-Active Learning doesn’t require the feedback from a ML model to select the next data points to label.
+Active Learning doesn’t require the feedback from a ML model to 
+select the next data points to label.
 
 
 Active Learning shouldn’t be used on imbalanced datasets
@@ -42,7 +44,8 @@ That’s correct!
 
 3.
 Question 3
-Weak Supervision is one of the methods used in production ML to label data. Which of the following statements are true about it?
+Weak Supervision is one of the methods used in production ML to label data.
+ Which of the following statements are true about it?
 
 1 / 1 point
 
