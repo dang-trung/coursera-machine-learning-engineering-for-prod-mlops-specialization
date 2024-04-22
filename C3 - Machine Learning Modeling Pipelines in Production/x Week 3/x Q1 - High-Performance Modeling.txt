@@ -65,7 +65,8 @@ True or False: TensorFlow offers techniques to optimize pipeline performance lik
 True
 
 Correct
-That’s correct! The API incorporating prefetching, parallelizing data extraction and transformation, caching and reducing memory is tf.data.
+That’s correct! The API incorporating prefetching, parallelizing data extraction 
+and transformation, caching and reducing memory is tf.data.
 
 5.
 Question 5

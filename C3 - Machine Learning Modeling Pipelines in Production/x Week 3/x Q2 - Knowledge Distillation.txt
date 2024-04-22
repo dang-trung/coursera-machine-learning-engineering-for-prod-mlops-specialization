@@ -67,7 +67,9 @@ For a multi-class classification problem, which ones of the following statements
 
 1 / 1 point
 
-> The teacher network is trained to maximize its accuracy and the the student network uses a cost function to approximate the probability distributions of the predictions of the teacher network.
+> The teacher network is trained to maximize its accuracy and the the student 
+network uses a cost function to approximate the probability distributions of 
+the predictions of the teacher network.
 
 Correct
 That's right!
@@ -113,7 +115,9 @@ Correct
 That’s correct! This high alpha parameter would reduce the influence of the hard labels that went through aggressive perturbations due to data augmentation
 
 
-> When computing the the "standard" loss between the student's predicted class probabilities and the ground-truth “hard” labels, we use a value of the softmax temperature T equal to 1 
+> When computing the the "standard" loss between the student's 
+predicted class probabilities and the ground-truth “hard” labels, 
+we use a value of the softmax temperature T equal to 1 
 
 Correct
 That’s right! This way, the student loss function would be a classical softmax function
@@ -122,4 +126,5 @@ That’s right! This way, the student loss function would be a classical softmax
 In case of heavy data augmentation after training the teacher network, the alpha hyperparameter should be low in the student network loss function
 
 
-When computing the the "standard" loss between the student's predicted class probabilities and the ground-truth “hard” labels, we use the same value of the softmax temperature T to compute the softmax on the teacher’s logits
+When computing the the "standard" loss between the student's predicted class 
+probabilities and the ground-truth “hard” labels, we use the same value of the softmax temperature T to compute the softmax on the teacher’s logits
