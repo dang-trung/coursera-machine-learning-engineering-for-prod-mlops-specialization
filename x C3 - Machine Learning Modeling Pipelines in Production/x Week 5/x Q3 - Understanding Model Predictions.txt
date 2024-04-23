@@ -59,5 +59,8 @@ True
 > False
 
 Correct
-That’s right! The features do not depend on the results, but the results do depend on the characteristics. The Shapley Values is a method for determining and understanding the relation between the important factors in the features and the generated model’s result.
+That’s right! The features do not depend on the results, but the results do 
+depend on the characteristics. The Shapley Values is a method for determining 
+and understanding the relation between the important factors in the features 
+and the generated model’s result.
 
