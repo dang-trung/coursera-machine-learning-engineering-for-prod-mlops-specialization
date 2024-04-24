@@ -18,7 +18,8 @@ Good Job! This route is the most recommended unless there are specific needs not
 
 2.
 Question 2
-What is the advantage of using the TensorFlow-model-server-universal binary to install TensorFlow Serving over the TensorFlow-model-server binary?
+What is the advantage of using the TensorFlow-model-server-universal 
+binary to install TensorFlow Serving over the TensorFlow-model-server binary?
 
 1 / 1 point
 

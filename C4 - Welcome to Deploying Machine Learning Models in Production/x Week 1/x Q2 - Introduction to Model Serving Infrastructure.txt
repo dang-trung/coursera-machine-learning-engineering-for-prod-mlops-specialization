@@ -28,7 +28,8 @@ What is the difference between optimizing and satisficing metrics?
 Optimizing metrics assess model complexity while satisficing metrics evaluate operation costs.
 
 
-> Optimizing metrics measure the model's predictive effectiveness while satisficing metrics specify operational constraints.
+> Optimizing metrics measure the model's predictive effectiveness while
+satisficing metrics specify operational constraints.
 
 
 Optimizing metrics estimate the speed of the model’s prediction latency while satisficing metrics deal with its precision.
@@ -64,7 +65,8 @@ Excellent! Amazon DynamoDB is a scalable low-read latency database with an in-me
 
 4.
 Question 4
-True Or False: The main advantage of deploying a model in a large data center accessed by a remote call is that you can disregard costs in favor of model complexity.
+True Or False: The main advantage of deploying a model in a large data center 
+accessed by a remote call is that you can disregard costs in favor of model complexity.
 
 1 / 1 point
 
@@ -74,7 +76,8 @@ True
 > False
 
 Correct
-Exactly! For example, Google constantly looks for ways to improve its resource utilization and reduce costs in its applications and data centers.
+Exactly! For example, Google constantly looks for ways to improve its 
+resource utilization and reduce costs in its applications and data centers.
 
 5.
 Question 5
@@ -88,5 +91,6 @@ True Or False: As a rule, you should opt for on-device inference whenever possib
 False
 
 Correct
-Absolutely! Following this general rule enhances the user experience by reducing the app's response time. There are exceptions, though, such as medical diagnosis, in which the model must be as accurate as possible, and latency is not that important.
+Absolutely! Following this general rule enhances the user experience by reducing
+ the app's response time. There are exceptions, though, such as medical diagnosis, in which the model must be as accurate as possible, and latency is not that important.
 
