@@ -27,7 +27,8 @@ They are produced for all the data points at once.
 
 2.
 Question 2
-In which area of online inference is a model artifact and model run created to reduce memory consumption and latency?
+In which area of online inference is a model artifact and model run created 
+to reduce memory consumption and latency?
 
 1 / 1 point
 
@@ -44,7 +45,8 @@ That's right! Model Compilation are running instances of the model responsible f
 
 3.
 Question 3
-True or False: Fast data caching using NoSQL databases is a cheap way of optimizing inference.
+True or False: Fast data caching using NoSQL databases is a cheap way of 
+optimizing inference.
 
 1 / 1 point
 
