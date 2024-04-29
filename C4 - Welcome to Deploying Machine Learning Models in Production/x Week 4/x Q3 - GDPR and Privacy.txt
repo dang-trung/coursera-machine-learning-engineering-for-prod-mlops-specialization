@@ -42,7 +42,8 @@ True or False: Informational harm occurs when the adversary is able to inject ba
 True
 
 Correct
-You're right! We are describing behavioral harm, as the attack aims to inject so much bad data into your system that whatever boundary the model learns becomes useless.
+You're right! We are describing behavioral harm, as the attack aims to inject 
+so much bad data into your system that whatever boundary the model learns becomes useless.
 
 3.
 Question 3
