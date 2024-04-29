@@ -1,7 +1,8 @@
 Total points 4
 1.
 Question 1
-When does the minor version number increase in the MAJOR.MINOR.PIPELINE approach of model versioning?
+When does the minor version number increase in the MAJOR.MINOR.PIPELINE approach
+of model versioning?
 
 1 / 1 point
 
